@@ -1,11 +1,21 @@
-<h1>Hi 👋, I'm mostafa</h1>
-<p>A passionate flutter developer from egypt</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Mostafa Yousri ali" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MostafaYousriAli&show_icons=true&locale=en" alt="MostafaYousriAli" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaYousriAli&" alt="MostafaYousriAli" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MostafaYousriAli&show_icons=true&locale=en&layout=compact" alt="MostafaYousriAli" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MostafaYousriAli" alt="MostafaYousriAli" /></a></p>
+# 💫 About Me:
+👋 Hey there! I'm Mostafa Yousri<br>🚀 Flutter Developer | Tech Enthusiast | Open Source Contributor<br>💡 Passionate about coding, problem-solving, and building innovative solutions. I enjoy working with Flutter and continuously learning new things.<br>📫 Reach me at myali490@gmail.com<br>⚡ Fun fact:  I function better with caffeine—coffee is my debugging fuel!
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mostafa Yousri ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myali490@gmail.com) 
+
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MostafaYousriAli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MostafaYousriAli&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaYousriAli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MostafaYousriAli&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
